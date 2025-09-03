@@ -1,0 +1,11 @@
+${c6}  
+NLLU     WLLL   ULLLLLLLLY      JLLO        LLLN
+NLLU     WLLL   ULLLLLLLLY      JLLO        LLLN
+NLLU     WLLL   ULLL     LLLN      WLLL  LLLY
+NLLU     WLLL   ULLL     LJJN      WJJJ  JJJY
+NLLU     WLLL   ULLLLLLLLY            LLLO
+OLLO     NLLL   ULLLSSSSSQ            SSSQ
+OLLO     NLLL   ULLL     LLLN      WLLL  LLLY
+\LLL\   /LLL/   ULLL     LLLN      WLLL  LLLY
+ \LLLLLLLLL/    ULLLLLLLLY      JLLO        LLLN
+   WLLLLLY      ULLLLLLLLY      JLLO        LLLN
